@@ -10,7 +10,7 @@
 	 Extract the content of the file where you want and you should see the sqlite3.exe folder. 
 	 To verify the installation, you perform the following steps: 
 	 First, open the command line window and navigate to the folder where you unzip your "sqlite3.exe" file. 
-	 Second, enter sqlite3, for check the sqlite is working or not. Now type in command prompt "sqlite3 messages.db" for creating a database.
+	 Second, enter sqlite3, for check the sqlite is working or not. Now type in command prompt "sqlite3 messages.db" for creating a       database.
 
 (5.) open the python script editor and "import from app import db" for importing your "app,py" file to database. And type "db.create_all()" for creating database. 
 (6.) Run you Application where your save it "python app.py"

@@ -1,6 +1,6 @@
 # STEP FOR CREATING CHAT APPLICATION FOR MULTIPLE USERS. <br>
 
-(1.) login in pusher.com then select "React" for client side and "python" for server side. <br>
+(1.) login in pusher.com then select "Java Scriot" for client side and "python" for server side. <br>
 (2.) we install pusher :- "pip install pusher" <br>
 (3.) Now pipenv install flask-sqlalchemy <br>
 (4.) Now we have to download SQLite from " https://www.sqlite.org" website & (download Precompiled Binaries for Windows) 
